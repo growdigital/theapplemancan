@@ -1,19 +1,19 @@
-baseURL: https://starter.indiego.org.uk/
+baseURL: https://www.theapplemancan.uk/
 languageCode: en-GB
-title: Indiego Starter
-theme: starter
+title: Martin Hayes
+theme: apples
 pluralizeListTitles: false
 copyright: This work is dual-licensed under MIT & GPL v3
 paginate: 2
 summaryLength: 13
 author:
-  name: Jake Rayson
-  email: hello@growdigital.org
+  name: Martin Hayes
+  email: hello@theapplemancan.uk
 taxonomies:
   tag: tags
 params:
-  description: Socially aware starter kit for Hugo
-  publisher: Indiego
+  description: Orchardist
+  publisher: Martin Hayes
   publisherLogo: assets/img/logo.png
   publisherLogoWidth: 220
   publisherLogoHeight: 220

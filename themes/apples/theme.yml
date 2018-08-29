@@ -1,0 +1,12 @@
+name: apples
+license: (MIT OR GPL-3.0)
+licenselink: https://github.com/growdigital/indiego/blob/master/LICENSE.md
+description: Bare minimum template for Indiego with modular CSS pipeline
+homepage: https://www.indiego.org.uk/
+tags:
+features:
+min_version: 0.36
+
+author:
+  name: Jake Rayson
+  homepage: https://www.growdigital.org/
