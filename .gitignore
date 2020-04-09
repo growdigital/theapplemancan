@@ -28,10 +28,6 @@ Thumbs.db
 *.sublime-project
 *.indiego.code-workspace
 
-# The Build Directory #
-#######################
-public
-
 # Logs
 logs
 *.log
